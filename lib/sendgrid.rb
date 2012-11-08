@@ -1,3 +1,4 @@
+require 'sendgrid/web_api'
 require 'json'
 
 module SendGrid
